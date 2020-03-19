@@ -12,26 +12,26 @@ assignees: ''
 <!-- WRITE A RELEVANT TITLE -->
 
 
-## WHICH SERVER(S) ARE  YOU CURRENTLY EXPERIENCING THE BUG ON?
+### WHICH SERVER(S) ARE  YOU CURRENTLY EXPERIENCING THE BUG ON?
 
 
 
-## SMALL DESCRIPTION:
+### SMALL DESCRIPTION:
 <!-- Add a one line description of the bug -->
 
 
 
-## EXPECTED BEHAVIOUR:
+### EXPECTED BEHAVIOUR:
 <!-- Describe how it should be working without the bug. -->
 
 
 
-## CURRENT BEHAVIOUR:
+### CURRENT BEHAVIOUR:
 <!-- Describe the bug in detail. -->
 
 
 
-## STEPS TO REPRODUCE THE PROBLEM:
+### STEPS TO REPRODUCE THE PROBLEM:
 <!-- Describe precisely how to reproduce the bug so we can fix it or confirm its existence:
  - Which commands to use? Which NPC to teleport to?
  - Do we need to look at the console while the bug happens?
@@ -42,5 +42,5 @@ assignees: ''
 2. 
 3. 
 
-## EXTRA NOTES:
+### EXTRA NOTES:
 <!--Any information that can help the developers to identify and fix the issue should be put here.
